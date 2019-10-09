@@ -1,10 +1,10 @@
 # Günün Programı
-09:00 - 09:30, Tanışma, Çay - Kahve <br/>
-09:30 - 11:00, Domain Story Telling (DST) yönetimi ve DDD ile ilişkisi <br/>
-11:00 - 12:00, Örnek bir senaryo üzerinden DST çalışması <br/>
-12:00 - 12:45, Yemek arası <br/>
-13:00 - 17:00, DDD odaklı kodlama ve DST ek senaryolar ile kod değişiklikleri çalışması<br/>
-17:00 - 17:30, Retrospective <br/>
+09:00 - 09:30  Tanışma, Çay - Kahve <br/>
+09:30 - 11:00  Domain Story Telling (DST) yönetimi ve DDD ile ilişkisi <br/>
+11:00 - 12:00  Örnek bir senaryo üzerinden DST çalışması <br/>
+12:00 - 12:45  Yemek arası <br/>
+13:00 - 17:00  DDD odaklı kodlama ve DST ek senaryolar ile kod değişiklikleri çalışması<br/>
+17:00 - 17:30  Retrospective <br/>
 <br/>
 
 
@@ -15,7 +15,7 @@ https://domainstorytelling.org/ <br/>
 
 # Domain Driven Design Nedir? <br/>
 * https://www.infoq.com/minibooks/domain-driven-design-quickly/#minibookDownload/
-* https://developer.ibm.com/tutorials/reactive-in-practice-1/ (alternatif bir teknik olan event storming kullanımı ile anlatım)
+* https://developer.ibm.com/tutorials/reactive-in-practice-1/ (alternatif bir teknik olan event storming ile anlatım)
 * https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice
 * https://docs.microsoft.com/bs-latn-ba/azure/architecture/microservices/model/tactical-ddd
 <br/>
