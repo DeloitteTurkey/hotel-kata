@@ -21,9 +21,6 @@ https://domainstorytelling.org/ <br/>
 <br/>
 
 
-# Otel Rezervasyonu Domain Araştırması <br/>
-TODO: Otel rezervasyonu domain'ini tanıtan kaynak linkler listelenecek <br/>
-<br/>
 
 
 # Otel Rezervasyonu DST Katathon <br/>
@@ -47,8 +44,7 @@ Başlangıç Domain Kuralları: <br/>
 
 
 # TDD Kaynakları <br/>
-* tbd
-* tbd
-* tbd
+* https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92
+* https://www.ibm.com/developerworks/java/library/j-eaed2/index.html
 <br/>
 
