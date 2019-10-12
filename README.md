@@ -45,6 +45,8 @@ Başlangıç Domain Kuralları: <br/>
 * Standart oda kişi başı fiyat 50 tl.
 * Her yaş için ücret alınıyor.
 * Eğer verilen tarihte müsait oda olmazsa, önce tarihi 1 gün ileri/geri oynatıyorum ve oda müsaitlik durumuna bakıyorum. Eğer bu tarihler misafir için uygun olmazsa orjinal süreyi bölüp alternatif odalar öneriyorum.
+* Üyelik sistemi geldi. Üyeler kaldıkları her akşam için kişi başı 5 puan biriktirebilir.
+* Daha sonra tekrar kalmak istediklerinde standart oda kişi başı 20 puandır her gece için.
 <br/>
 
 
