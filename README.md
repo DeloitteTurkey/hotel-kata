@@ -44,6 +44,7 @@ Başlangıç Domain Kuralları: <br/>
 * Odaların hepsi her sezon müsait.
 * Standart oda kişi başı fiyat 50 tl.
 * Her yaş için ücret alınıyor.
+* Eğer verilen tarihte müsait oda olmazsa, önce tarihi 1 gün ileri/geri oynatıyorum ve oda müsaitlik durumuna bakıyorum. Eğer bu tarihler misafir için uygun olmazsa orjinal süreyi bölüp alternatif odalar öneriyorum.
 <br/>
 
 
