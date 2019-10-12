@@ -41,6 +41,7 @@ Başlangıç Domain Kuralları: <br/>
 * Şu anda sadece "standart" oda tipi mevcut.
 * Odaların %20'si 3 kişilik, %60'ı 2 kişilik, %20'si 4 kişiliktir.
 * Odaların hepsi her sezon müsait.
+* Standart oda kişi başı fiyat 50 tl.
 <br/>
 
 
